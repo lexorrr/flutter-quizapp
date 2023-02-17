@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "634484092774",
+    "project_id": "fireship-lessons-f9169",
+    "storage_bucket": "fireship-lessons-f9169.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634484092774:android:79c195a942750594d622a7",
+        "android_client_info": {
+          "package_name": "com.lexorrr.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634484092774-157gcsue157c6qut36h80m41gefcd9qk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lexorrr.quizapp",
+            "certificate_hash": "e9360c40087130eea80942e57346db4f1d37a1a4"
+          }
+        },
+        {
+          "client_id": "634484092774-k0c1vna5l8mmfdq2bv9b9a8hsg2i2pl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmqXzsBofA1Db0L7k8NxM6XM6uisEhk_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634484092774-k0c1vna5l8mmfdq2bv9b9a8hsg2i2pl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
